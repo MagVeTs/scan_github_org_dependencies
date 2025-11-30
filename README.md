@@ -29,7 +29,7 @@ An automation wrapper for the `SBOM Threat Matcher` (https://github.com/MagVeTs/
 
 - `sbom_threat_matcher.py` (found here: https://github.com/MagVeTs/SBOM_Threat_Matcher) - installed in same directory as `scan_github_org_dependencies.sh`
 
-- List of compromised or vulnerable packages/dependencies stored as .txt file
+- List of compromised or vulnerable packages/dependencies stored as `.txt` file
 
 
 
