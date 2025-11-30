@@ -15,12 +15,12 @@ An automation wrapper for the `SBOM Threat Matcher` (https://github.com/MagVeTs/
 ./scan_github_org_dependencies.sh <GITHUB_ORG_OR_USER> <PATH_TO_THREAT_LIST.txt>
 ```
 
-##Example
+## Example
 ```bash
 ./scan_github_org_dependencies.sh "netflix" "./shai_hulud_list.txt"
 ```
 
-##Requirements
+## Requirements
 - GitHub CLI (`gh`): Must be installed and authenticated (`gh auth login`).
 
 - `jq`: Required for parsing repository lists.
